@@ -9,8 +9,9 @@
   <br>
   Backend Engineer
 
-  <img src="https://img.shields.io/badge/HTMX-%231993D1?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX Badge">&nbsp;
+ <!-- <img src="https://img.shields.io/badge/HTMX-%231993D1?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX Badge">&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge">&nbsp;
   <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  -->
 </div>
