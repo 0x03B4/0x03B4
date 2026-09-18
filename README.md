@@ -11,7 +11,6 @@
     Backend Engineer
     <br>
     <br>
-    <br>
     <sub>Interests: Systems · Distributed Systems · Infrastructure · Platform Engineering</sub>
   </p>
 </div>
